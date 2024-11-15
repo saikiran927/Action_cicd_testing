@@ -10,3 +10,9 @@ def test_sub():
     assert sub(4,3)==1
     assert sub(5,3)==2
     
+def test_mul():
+    assert mul(2,3)==6
+    assert mul(4,3)==12
+    assert mul(5,3)==15
+    
+    

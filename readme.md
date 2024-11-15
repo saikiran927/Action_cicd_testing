@@ -1,0 +1,1 @@
+## This is python app used to learn and practicse about github Actions CI/CD Pipeline
